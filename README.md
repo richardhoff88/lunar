@@ -1,6 +1,6 @@
 # Lunar Trailblazer App Technical Question 2
-### Author: Richard Hoffmann (Caltech Undergrad)
-### Date: September 17, 2024
+Author: Richard Hoffmann (Caltech Undergrad)
+Date: September 17, 2024
 
 ## Overview
 This script is designed to analyze real-time telemetry data from a spacecraft, specifically targeting solar panel voltages, battery status, system current, temperatures, and sun sensor data. It extracts relevant columns from the dataset and generates multiple plots to visualize how various subsystems of the spacecraft behave over time.
