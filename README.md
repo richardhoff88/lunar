@@ -1,11 +1,11 @@
-#Lunar Trailblazer App Technical Question 2
-##Author: Richard Hoffmann (Caltech Undergrad)
-##Date: September 17, 2024
+# Lunar Trailblazer App Technical Question 2
+## Author: Richard Hoffmann (Caltech Undergrad)
+## Date: September 17, 2024
 
-##Overview
+## Overview
 This script is designed to analyze real-time telemetry data from a spacecraft, specifically targeting solar panel voltages, battery status, system current, temperatures, and sun sensor data. It extracts relevant columns from the dataset and generates multiple plots to visualize how various subsystems of the spacecraft behave over time.
 
-#Data
+# Data
 The telemetry data is expected to be provided in a CSV file named sat_realtime_telemetry.csv. This file contains time-stamped telemetry readings, including:
 
 Solar panel voltages (X, Y, Z axes)
@@ -21,5 +21,5 @@ Total System Current mA: The spacecraft's total current consumption in milliamps
 Boost Converter Temp 1/2 C: The temperatures of the spacecraft's boost converters in Celsius.
 Sun Sensor X+/Y+/Z+: Values from the sun sensor, indicating the spacecraft's orientation relative to the Sun.
 
-#Script Functionality
+# Script Functionality
 The script extracts data from the CSV file and generates several plots to help analyze the spacecraft's power consumption, solar energy generation, and thermal management:
