@@ -1,5 +1,5 @@
 # Lunar Trailblazer App Technical Question 2
-Author: Richard Hoffmann (Caltech Undergrad)
+Author: Richard Hoffmann (Caltech Undergrad), 
 Date: September 17, 2024
 
 ## Overview
